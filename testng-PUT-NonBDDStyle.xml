@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/91957/IdeaProjects/ATB8xAPIAutomationPrograms">
+        <classes>
+            <class name="com.thetestingacademy.RESTAssuredBasics.PUT.APITesting010_PUT_NonBDDStyle">
+                <methods>
+                    <include name="test_put_non_bdd"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
